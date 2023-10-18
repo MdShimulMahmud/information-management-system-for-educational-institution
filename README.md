@@ -113,26 +113,31 @@ These are the basic components of our developed projects.
 ### Class Information
 
 - Unregistered users can't see the information.User must be registered to see information.
+
   ![Class Information](DS_Store/classinfo.png)
 
 ### Teacher Information
 
 - Unregistered users can't see the information.User must be registered to see information.
+
   ![Teacher Information](DS_Store/teacher_info.png)
 
 ### Student Information
 
 - Unregistered users can't see the information.User must be registered to see information.
+
   ![Student Information](DS_Store/student_info.png)
 
 ### Parent Information
 
 - Unregistered users can't see the information.User must be registered to see information.
+
   ![Parent Information](DS_Store/parent_info.png)
 
 ### Create New Information
 
 - Only a registered user can create an information.
+
   ![Create New Information](DS_Store/create_new.png)
 
 ### Login
@@ -169,7 +174,8 @@ These are the basic components of our developed projects.
 
 ### Validation
 
-- Every Input Field is validated.
+- Every input field is validated.
+
 - When someone will be trying to create a new information of any student, teacher, class and parent information, he must be inputed the valid information, otherwise it shows the error message.<br/>
 
   ![Validation](DS_Store/validation.png)
