@@ -113,26 +113,31 @@ These are the basic components of our developed projects.
 ### Class Information
 
 - Unregistered users can't see the information.User must be registered to see information.
+
   ![Class Information](DS_Store/classinfo.png)
 
 ### Teacher Information
 
 - Unregistered users can't see the information.User must be registered to see information.
+
   ![Teacher Information](DS_Store/teacher_info.png)
 
 ### Student Information
 
 - Unregistered users can't see the information.User must be registered to see information.
+
   ![Student Information](DS_Store/student_info.png)
 
 ### Parent Information
 
 - Unregistered users can't see the information.User must be registered to see information.
+
   ![Parent Information](DS_Store/parent_info.png)
 
 ### Create New Information
 
 - Only a registered user can create an information.
+
   ![Create New Information](DS_Store/create_new.png)
 
 ### Login
@@ -145,43 +150,44 @@ These are the basic components of our developed projects.
 
 ### Edit Information
 
-- Role-based access only. Only manager and officer got access to edit information.<br/>
+- Role-based access only. Only manager and officer got access to edit information.
 
   ![Edit Information](DS_Store/edit.png)
 
 ### Details Information
 
-- Role-based access only. Anyone shows the details.<br/>
+- Role-based access only. Anyone shows the details.
 
   ![Details Information](DS_Store/details.png)
 
 ### Delete Information
 
-- Role-based access only. Only manager got access to delete information.<br/>
+- Role-based access only. Only manager got access to delete information.
 
   ![Delete Information](DS_Store/delete.png)
 
 ### Image Uploading
 
-- Choose file contains an image uploading option.<br/>
+- Choose file contains an image uploading option.
 
   ![Image Uploading](DS_Store/image-upload.png)
 
 ### Validation
 
 - Every Input Field is validated.
-- When someone will be trying to create a new information of any student, teacher, class and parent information, he must be inputed the valid information, otherwise it shows the error message.<br/>
+
+- When someone will be trying to create a new information of any student, teacher, class and parent information, he must be inputed the valid information, otherwise it shows the error message.
 
   ![Validation](DS_Store/validation.png)
 
 ### Searching
 
-- The search results showing based on the input typed by the user within search box.<br/>
+- The search results showing based on the input typed by the user within search box.
 
   ![Searching](DS_Store/searcing.png)
 
 ### Pagination
 
-- In a single page, it consists only five information lists. The pagination shows on the bottom-left and bottom-right corner.<br/>
+- In a single page, it consists only five information lists. The pagination shows on the bottom-left and bottom-right corner.
 
   ![Pagination](DS_Store/pagination.png)
