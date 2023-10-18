@@ -112,31 +112,31 @@ These are the basic components of our developed projects.
 
 ### Class Information
 
-- Unregistered users can't see the information.User must be registered to see information.
+- Unregistered users can't see the information. The user must be registered to see the information.
 
   ![Class Information](DS_Store/classinfo.png)
 
 ### Teacher Information
 
-- Unregistered users can't see the information.User must be registered to see information.
+- Unregistered users can't see the information. The user must be registered to see the information.
 
   ![Teacher Information](DS_Store/teacher_info.png)
 
 ### Student Information
 
-- Unregistered users can't see the information.User must be registered to see information.
+- Unregistered users can't see the information. The user must be registered to see the information.
 
   ![Student Information](DS_Store/student_info.png)
 
 ### Parent Information
 
-- Unregistered users can't see the information.User must be registered to see information.
+- Unregistered users can't see the information. The user must be registered to see the information.
 
   ![Parent Information](DS_Store/parent_info.png)
 
 ### Create New Information
 
-- Only a registered user can create an information.
+- Only a registered user can create a piece of information.
 
   ![Create New Information](DS_Store/create_new.png)
 
@@ -150,25 +150,25 @@ These are the basic components of our developed projects.
 
 ### Edit Information
 
-- Role-based access only. Only manager and officer got access to edit information.<br/>
+- Role-based access only. Only the manager and officer had access to edit information.<br/>
 
   ![Edit Information](DS_Store/edit.png)
 
 ### Details Information
 
-- Role-based access only. Anyone shows the details.<br/>
+- Role-based access only. Does anyone show the details? Yes!!<br/>
 
   ![Details Information](DS_Store/details.png)
 
 ### Delete Information
 
-- Role-based access only. Only manager got access to delete information.<br/>
+- Role-based access only. Only managers have access to delete information.<br/>
 
   ![Delete Information](DS_Store/delete.png)
 
 ### Image Uploading
 
-- Choose file contains an image uploading option.<br/>
+- Choose a file that contains an image uploading option.<br/>
 
   ![Image Uploading](DS_Store/image-upload.png)
 
@@ -176,18 +176,18 @@ These are the basic components of our developed projects.
 
 - Every input field is validated.
 
-- When someone will be trying to create a new information of any student, teacher, class and parent information, he must be inputed the valid information, otherwise it shows the error message.<br/>
+- When someone is trying to create new information about any student, teacher, class, or parent, he must input valid information; otherwise, it shows an error message.<br/>
 
   ![Validation](DS_Store/validation.png)
 
 ### Searching
 
-- The search results showing based on the input typed by the user within search box.<br/>
+- The search results show up based on the input typed by the user within the search box.<br/>
 
   ![Searching](DS_Store/searcing.png)
 
 ### Pagination
 
-- In a single page, it consists only five information lists. The pagination shows on the bottom-left and bottom-right corner.<br/>
+- On a single page, it consists of only five information lists. The pagination shows on the bottom-left and bottom-right corner.<br/>
 
   ![Pagination](DS_Store/pagination.png)
