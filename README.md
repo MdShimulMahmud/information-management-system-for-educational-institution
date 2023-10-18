@@ -10,25 +10,23 @@ An Information Management System (IMS) for an educational institution involves b
 - [Installation](#installation)
 - [Features](#features)
 - [Components](#components)
-- [Configuration](#configuration)
-- [Usage](#usage)
   - [Home](#home)
   - [Contact](#contact)
   - [About](#about)
-  - [Class Info](#class-info)
-  - [Student Info](#student-info)
-  - [Teacher Info](#teacher-info)
-  - [Parent Info](#parent-info)
+  - [Class Information](#class-information)
+  - [Student Information](#student-information)
+  - [Teacher Information](#teacher-information)
+  - [Parent Information](#parent-information)
+  - [Create New Information](#create-new-information)
   - [Register](#register)
   - [Login](#login)
-  - [Edit](#edit)
-  - [Details](#details)
-  - [Delete](#delete)
-- [Authentication and Authorization](#authentication-and-authorization)
-- [Pagination](#pagination)
-- [Searching](#searching)
-- [Validation](#validation)
-- [Image Uploading](#image-uploading)
+  - [Edit Information](#edit-information)
+  - [Details Information](#details-information)
+  - [Delete Information](#delete-information)
+  - [Pagination](#pagination)
+  - [Searching](#searching)
+  - [Validation](#validation)
+  - [Image Uploading](#image-uploading)
 
 ## Introduction
 
@@ -64,8 +62,10 @@ Follow these steps to run the project locally:
    cd your-project-directory
    ```
 
-   ```open project with visual studio 2022
-   debug->start without debugging
+2. Run project:
+   ```bash
+   open project with visual studio 2022
+   debug -> start without debugging
    ```
 
 ## Features
@@ -126,6 +126,10 @@ These are the basic components of our developed projects.
 
 ![Parent Information](DS_Store/parent_info.png)
 
+### Create New Information
+
+![Create New Information](DS_Store/create_new.png)
+
 ### Login
 
 ![Login](DS_Store/login.png)
@@ -134,26 +138,30 @@ These are the basic components of our developed projects.
 
 ![Register](DS_Store/register.png)
 
-### Dynamic Searching
+### Edit Information
+
+![Edit Information](DS_Store/edit.png)
+
+### Details Information
+
+![Details Information](DS_Store/details.png)
+
+### Delete Information
+
+![Delete Information](DS_Store/delete.png)
+
+### Image Upload
+
+![Image Upload](DS_Store/image-upload.png)
+
+### Validation
+
+![Validation](DS_Store/validation.png)
+
+### Searching
 
 ![Searching](DS_Store/searching.png)
 
 ### Pagination
 
 ![Pagination](DS_Store/pagination.png)
-
-### Create New Information
-
-![Create New Information](DS_Store/create_new.png)
-
-### Edit
-
-![Edit](DS_Store/edit.png)
-
-### Details
-
-![Details](DS_Store/details.png)
-
-### Delete
-
-![Delete](DS_Store/delete.png)
