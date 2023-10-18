@@ -145,43 +145,43 @@ These are the basic components of our developed projects.
 
 ### Edit Information
 
-- Role-based access only. Only manager and officer got access to edit information.
+- Role-based access only. Only manager and officer got access to edit information.<br/>
 
   ![Edit Information](DS_Store/edit.png)
 
 ### Details Information
 
-- Role-based access only. Anyone shows the details.
+- Role-based access only. Anyone shows the details.<br/>
 
   ![Details Information](DS_Store/details.png)
 
 ### Delete Information
 
-- Role-based access only. Only manager got access to delete information.
+- Role-based access only. Only manager got access to delete information.<br/>
 
   ![Delete Information](DS_Store/delete.png)
 
 ### Image Uploading
 
-- Choose file contains an image uploading option.
+- Choose file contains an image uploading option.<br/>
 
   ![Image Uploading](DS_Store/image-upload.png)
 
 ### Validation
 
 - Every Input Field is validated.
-- When someone will be trying to create a new information of any student, teacher, class and parent information, he must be inputed the valid information, otherwise it shows the error message.
+- When someone will be trying to create a new information of any student, teacher, class and parent information, he must be inputed the valid information, otherwise it shows the error message.<br/>
 
   ![Validation](DS_Store/validation.png)
 
 ### Searching
 
-- The search results showing based on the input typed by the user within search box.
+- The search results showing based on the input typed by the user within search box.<br/>
 
   ![Searching](DS_Store/searcing.png)
 
 ### Pagination
 
-- In a single page, it consists only five information lists. The pagination shows on the bottom-left and bottom-right corner.
+- In a single page, it consists only five information lists. The pagination shows on the bottom-left and bottom-right corner.<br/>
 
   ![Pagination](DS_Store/pagination.png)
