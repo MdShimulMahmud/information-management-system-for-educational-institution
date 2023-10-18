@@ -30,7 +30,7 @@ An Information Management System (IMS) for an educational institution involves b
 
 ## Introduction
 
-This ASP.NET MVC project is designed to demonstrate a fully-featured web application with a variety of functionalities, catering to different user roles and use cases. The project's primary goal is to illustrate best practices in web development.
+This ASP.NET MVC project is designed to demonstrate a fully-featured web application with various functionalities catering to different user roles and use cases. The project's primary goal is to illustrate best practices in web development.
 
 This ASP.NET MVC project is a comprehensive web application that covers various features including user authentication, authorization, CRUD operations, image uploading, pagination, searching, and more.
 
@@ -41,7 +41,7 @@ This ASP.NET MVC project is a comprehensive web application that covers various 
 - **HTML, CSS, JavaScript**: Front-end technologies.
 - **SQL Server**: Database for data storage.
 - **Authentication Library**: Used for user authentication.
-- **Responsive Design**: Ensuring a user-friendly experience on desktop,laptop and tablets.
+- **Responsive Design**: Ensuring a user-friendly experience on desktops, laptops, and tablets.
 
 ## Prerequisites
 
@@ -64,7 +64,7 @@ Follow these steps to run the project locally:
 
 2. Run project:
    ```bash
-   open project with visual studio 2022
+   open project with Visual Studio 2022
    debug -> start without debugging
    ```
 
@@ -92,7 +92,7 @@ The project also includes the following features:
 
 ![Demo](images/demo.png)
 
-View a live demo of the project [here](#). -->
+You can view a live demo of the project [here](#). -->
 
 ## Components
 
@@ -112,28 +112,28 @@ These are the basic components of our developed projects.
 
 ### Class Information
 
-- Unregistered users can't see the information.User must be registered to see information.
+- Unregistered users can't see the information. The user must be registered to see the information.
   ![Class Information](DS_Store/classinfo.png)
 
 ### Teacher Information
 
-- Unregistered users can't see the information.User must be registered to see information.
+Unregistered users can't see the information. The user must be registered to see the information.
   ![Teacher Information](DS_Store/teacher_info.png)
 
 ### Student Information
 
-- Unregistered users can't see the information.User must be registered to see information.
+Unregistered users can't see the information. The user must be registered to see the information.
   ![Student Information](DS_Store/student_info.png)
 
 ### Parent Information
 
-- Unregistered users can't see the information.User must be registered to see information.
+Unregistered users can't see the information. The user must be registered to see the information.
   ![Parent Information](DS_Store/parent_info.png)
 
 ### Create New Information
 
-- Only a registered user can create an information.
-  ![Create New Information](DS_Store/create_new.png)
+Only a registered user can create information.
+[Create New Information](DS_Store/create_new.png)
 
 ### Login
 
@@ -145,43 +145,43 @@ These are the basic components of our developed projects.
 
 ### Edit Information
 
-- Role-based access only. Only manager and officer got access to edit information.<br/>
+- Role-based access only. Only the manager and officer had access to edit information.<br/>
 
   ![Edit Information](DS_Store/edit.png)
 
 ### Details Information
 
-- Role-based access only. Anyone shows the details.<br/>
+- Role-based access only. Does anyone show the details? Yes!
 
   ![Details Information](DS_Store/details.png)
 
 ### Delete Information
 
-- Role-based access only. Only manager got access to delete information.<br/>
+Role-based access only. Only the manager had access to delete information.
 
   ![Delete Information](DS_Store/delete.png)
 
 ### Image Uploading
 
-- Choose file contains an image uploading option.<br/>
+Choose a file that contains an image uploading option.<br/>
 
   ![Image Uploading](DS_Store/image-upload.png)
 
 ### Validation
 
-- Every Input Field is validated.
-- When someone will be trying to create a new information of any student, teacher, class and parent information, he must be inputed the valid information, otherwise it shows the error message.<br/>
+Every input field is validated.
+When someone is trying to create new information about any student, teacher, class, or parent, he must input valid information; otherwise, it shows an error message.<br/>
 
   ![Validation](DS_Store/validation.png)
 
 ### Searching
 
-- The search results showing based on the input typed by the user within search box.<br/>
+The search results show up based on the input typed by the user within the search box.<br/>
 
   ![Searching](DS_Store/searcing.png)
 
 ### Pagination
 
-- In a single page, it consists only five information lists. The pagination shows on the bottom-left and bottom-right corner.<br/>
+On a single page, it consists of only five information lists. The pagination is shown on the bottom-left and bottom-right corners. <br/>
 
   ![Pagination](DS_Store/pagination.png)
