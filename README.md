@@ -160,7 +160,7 @@ These are the basic components of our developed projects.
 
 ### Searching
 
-![Searching](DS_Store/searching.png)
+![Searching](DS_Store/searcing.png)
 
 ### Pagination
 
