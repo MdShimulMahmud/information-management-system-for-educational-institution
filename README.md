@@ -1,15 +1,15 @@
-# ASP.NET MVC Project README
+# Information Management System for Educational Institution
 
-This ASP.NET MVC project is a comprehensive web application that covers various features including user authentication, authorization, CRUD operations, image uploading, pagination, searching, and more.
+An Information Management System (IMS) for an educational institution involves building a comprehensive platform that can handle various aspects of educational administration, student information, teacher information, and so on.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
-- [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
+- [Features](#features)
+- [Components](#components)
 - [Configuration](#configuration)
 - [Usage](#usage)
   - [Home](#home)
@@ -29,62 +29,12 @@ This ASP.NET MVC project is a comprehensive web application that covers various 
 - [Searching](#searching)
 - [Validation](#validation)
 - [Image Uploading](#image-uploading)
-- [API Documentation](#api-documentation)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-- [Contact](#contact)
 
 ## Introduction
 
 This ASP.NET MVC project is designed to demonstrate a fully-featured web application with a variety of functionalities, catering to different user roles and use cases. The project's primary goal is to illustrate best practices in web development.
 
-## Features
-
-- **Home**: The application's landing page.
-- **Contact**: A page featuring a contact form for user inquiries and feedback.
-- **About**: Information about the project, its goals, and contributors.
-- **Class Info**: Manage and display information about classes.
-- **Student Info**: Manage and display student data.
-- **Teacher Info**: Manage and display teacher information.
-- **Parent Info**: Manage and display parent data.
-- **Register**: User registration with validation.
-- **Login**: User login and authentication.
-
-The project also includes the following features:
-
-- **Authentication and Authorization**: User registration, login, and role-based access control.
-- **Pagination**: Navigate through paginated data.
-- **Searching**: Search for specific data quickly.
-- **Validation**: Data validation to ensure accuracy.
-- **Image Uploading**: Allow users to upload and manage images.
-
-## Demo
-
-![Demo](images/demo.png)
-
-View a live demo of the project [here](#).
-
-## Screenshots
-
-![Home](DS_Store/home.png)
-![About](DS_Store/about.png)
-![Contact](DS_Store/contact.png)
-![Class Information](DS_Store/classinfo.png)
-![Teacher Information](DS_Store/teacher_info.png)
-![Student Information](DS_Store/student_info.png)
-![Parent Information](DS_Store/parent_info.png)
-![Login](DS_Store/login.png)
-![Register](DS_Store/register.png)
-![Searching](DS_Store/searching.png)
-![Pagination](DS_Store/pagination.png)
-![Create New Information](DS_Store/create_new.png)
-![Edit](DS_Store/edit.png)
-![Details](DS_Store/details.png)
-![Delete](DS_Store/delete.png)
-
-Include screenshots or images to visually represent different aspects of your application.
+This ASP.NET MVC project is a comprehensive web application that covers various features including user authentication, authorization, CRUD operations, image uploading, pagination, searching, and more.
 
 ## Technologies Used
 
@@ -110,6 +60,100 @@ Follow these steps to run the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-mvc-project.git
-   cd your-mvc-project
+   git clone https://github.com/MdShimulMahmud/information-management-system-for-educational-institution.git
+   cd your-project-directory
    ```
+
+   ```open project with visual studio 2022
+   debug->start without debugging
+   ```
+
+## Features
+
+- **Home**: The application's landing page.
+- **Contact**: A page featuring a contact form for user inquiries and feedback.
+- **About**: Information about the project, its goals, and contributors.
+- **Class Info**: Manage and display information about classes.
+- **Student Info**: Manage and display student data.
+- **Teacher Info**: Manage and display teacher information.
+- **Parent Info**: Manage and display parent data.
+- **Register**: User registration with validation.
+- **Login**: User login and authentication.
+
+The project also includes the following features:
+
+- **Authentication and Authorization**: User registration, login, and role-based access control.
+- **Pagination**: Navigate through paginated data.
+- **Searching**: Search for specific data quickly.
+- **Validation**: Data validation to ensure accuracy.
+- **Image Uploading**: Allow users to upload and manage images.
+
+<!-- ## Demo
+
+![Demo](images/demo.png)
+
+View a live demo of the project [here](#). -->
+
+## Components
+
+These are the basic components of our developed projects.
+
+### Home
+
+![Home](DS_Store/home.png)
+
+### About
+
+![About](DS_Store/about.png)
+
+### Contact
+
+![Contact](DS_Store/contact.png)
+
+### Class Information
+
+![Class Information](DS_Store/classinfo.png)
+
+### Teacher Information
+
+![Teacher Information](DS_Store/teacher_info.png)
+
+### Student Information
+
+![Student Information](DS_Store/student_info.png)
+
+### Parent Information
+
+![Parent Information](DS_Store/parent_info.png)
+
+### Login
+
+![Login](DS_Store/login.png)
+
+### Register
+
+![Register](DS_Store/register.png)
+
+### Dynamic Searching
+
+![Searching](DS_Store/searching.png)
+
+### Pagination
+
+![Pagination](DS_Store/pagination.png)
+
+### Create New Information
+
+![Create New Information](DS_Store/create_new.png)
+
+### Edit
+
+![Edit](DS_Store/edit.png)
+
+### Details
+
+![Details](DS_Store/details.png)
+
+### Delete
+
+![Delete](DS_Store/delete.png)
