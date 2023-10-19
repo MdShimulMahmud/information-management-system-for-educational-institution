@@ -9,7 +9,7 @@ An Information Management System (IMS) for an educational institution involves b
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Features](#features)
-- [Youtube Channel](#youtube)
+- [Youtube Channel](#youtube-channel)
 - [Components](#components)
   - [Home](#home)
   - [Contact](#contact)
