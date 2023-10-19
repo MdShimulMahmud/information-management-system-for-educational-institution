@@ -88,11 +88,9 @@ The project also includes the following features:
 - **Validation**: Data validation to ensure accuracy.
 - **Image Uploading**: Allow users to upload and manage images.
 
-<!-- ## Demo
+## Youtube Link
 
-![Demo](images/demo.png)
-
-You can view a live demo of the project [here](#). -->
+You can view a live demo of the project [here](https://youtu.be/BsNugRHZdho)
 
 ## Components
 
