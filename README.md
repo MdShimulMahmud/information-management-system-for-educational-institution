@@ -9,6 +9,7 @@ An Information Management System (IMS) for an educational institution involves b
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Features](#features)
+- [Youtube Channel](#youtube)
 - [Components](#components)
   - [Home](#home)
   - [Contact](#contact)
@@ -88,9 +89,9 @@ The project also includes the following features:
 - **Validation**: Data validation to ensure accuracy.
 - **Image Uploading**: Allow users to upload and manage images.
 
-## Youtube Link
+## Youtube Channel
 
-You can view a live demo of the project [here](https://youtu.be/BsNugRHZdho)
+You can view a live demo of the project [YouTube](https://youtu.be/BsNugRHZdho)
 
 ## Components
 
